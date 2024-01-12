@@ -1,5 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
+platform,Platform,true,
+prompt,Prompt,
 creator,Creator,,,
 subject,,true
 location,,true

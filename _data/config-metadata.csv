@@ -1,4 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
+prompt,Prompt,true
+platform,Platform,true
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
