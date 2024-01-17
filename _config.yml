@@ -20,12 +20,12 @@ source-code: https://github.com/evanwill/generated-images
 # title of site appears in banner
 title: Generated Images
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Gallery of Random Library Related Images
+tagline: Gallery of Random Library Related Text-to-Image Examples
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Images generated to explore online platforms for library related events."
+description: "Images generated to explore text-to-image online platforms for library related events."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: text-to-image; AI
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
